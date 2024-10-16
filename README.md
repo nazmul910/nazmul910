@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Nazmul Hasan
 ### Web Developer
-I'm a Front End Web developer who is passionate about making error-free websites.I have a passion for learning and sharing my khowledge with others as publicly as possible.
+I'm a Front End Web developer who is passionate about making error-free websites .I have a passion for learning and sharing my knowledge with others as publicly as possible.
 
 Skills: HTML/CSS/Bootstrap/Tailwind Css/Gsap/JavaScript/Vue js/
 
