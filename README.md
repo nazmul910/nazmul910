@@ -8,7 +8,7 @@ Skills: HTML/CSS/Bootstrap/Tailwind Css/Gsap/JavaScript/Vue js/
 - 🌱 I’m currently learning MySql 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nazmul910)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ni-nazmul-158098297//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nazmul910)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ni-nazmul-158098297/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nazmul910)](https://github.com/ryo-ma/github-profile-trophy)
 
