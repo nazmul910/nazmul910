@@ -1,80 +1,82 @@
 <h1 align="center">Hi 👋, I'm Nazmul Hasan</h1>
-<h3 align="center">Full Stack JavaScript Developer</h3>
+
+<h3 align="center">
+Full Stack JavaScript Developer
+</h3>
 
 <p align="center">
-Passionate Full Stack Developer focused on building scalable web applications, modern user experiences, and robust backend systems.
+Building modern, scalable, and high-performance web applications using React, Next.js, Vue.js, Node.js, NestJS, PostgreSQL, and MongoDB.
+</p>
+
+<p align="center">
+<a href="mailto:nazmulhasan677441@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://www.linkedin.com/in/ni-nazmul4124/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/nazmul910">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Full Stack JavaScript Developer
-- 🎓 Diploma in Computer Engineering
-- 🌱 Currently learning System Design, SaaS Architecture & Advanced Backend Development
-- 🔥 Passionate about solving real-world problems through technology
-- ⚡ Love building modern, scalable, and user-friendly applications
+- Full Stack JavaScript Developer
+- Experience building responsive web applications and RESTful APIs
+- Skilled in modern frontend and backend technologies
+- Passionate about scalable architecture and clean code practices
+- Focused on delivering performant and user-friendly digital experiences
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 ### Frontend
-- React.js
-- Next.js
-- Vue.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-- Flowbite
 
-### UI & Animation
-- GSAP
-- Framer Motion
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ### Backend
-- Node.js
-- Express.js
-- NestJS
-- Prisma ORM
-- REST API Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
 
 ### Database
-- PostgreSQL
-- MongoDB
-- Firebase
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
 ### Architecture & State Management
+
 - Multi-Tenant SaaS Architecture
 - Redux Toolkit
 - RTK Query
 - JWT Authentication
 - Role-Based Access Control (RBAC)
+- REST API Design
 
-### Tools & Platforms
-- Git
-- GitHub
-- Postman
-- Vercel
-- Render
-- NPM
-- SSLCommerz
+### Tools
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/ni-nazmul-158098297/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/nazmul910" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm)
 
 ---
 
@@ -94,25 +96,11 @@ Passionate Full Stack Developer focused on building scalable web applications, m
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Current Focus
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nazmul910&theme=tokyonight&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 🚀 Current Focus
-
-- Building Full Stack SaaS Applications
-- Scalable REST APIs with NestJS & Express.js
+- Full Stack SaaS Applications
+- Scalable REST APIs
 - PostgreSQL & Prisma ORM
 - Authentication & Authorization Systems
 - Multi-Tenant Architecture
-- System Design Fundamentals
-
----
-
-## 💡 Quote
-
-> "Continuous learning and consistent practice are the keys to becoming a great developer."
+- System Design
