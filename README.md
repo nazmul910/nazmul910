@@ -12,7 +12,7 @@ Passionate Full Stack Developer with experience building scalable web applicatio
 - 🎓 Diploma in Computer Engineering
 - 🌱 Currently exploring SaaS Architecture, NestJS, and System Design
 - 🔥 Passionate about building scalable and user-friendly applications
-- 📫 Reach me at: your-email@example.com
+- 📫 Reach me at: nazmulhasan677441@gmail.com
 
 ---
 
@@ -64,7 +64,7 @@ Passionate Full Stack Developer with experience building scalable web applicatio
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nazmul_Hasan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ni-nazmul-158098297/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nazmul_Hasan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ni-nazmul4124/)
 
 ---
 
