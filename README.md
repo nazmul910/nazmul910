@@ -5,36 +5,36 @@ Full Stack JavaScript Developer
 </h3>
 
 <p align="center">
-Building scalable web applications with modern frontend technologies and robust backend architectures.
+Building modern, scalable, and high-performance web applications using React, Next.js, Vue.js, Node.js, NestJS, PostgreSQL, and MongoDB.
 </p>
 
 <p align="center">
-  <a href="mailto:nazmulhasan677441@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:nazmulhasan677441@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
 
-  <a href="https://www.linkedin.com/in/ni-nazmul4124/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/ni-nazmul4124/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-  <a href="https://github.com/nazmul910">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://github.com/nazmul910">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Full Stack JavaScript Developer
-- 🎓 Diploma in Computer Engineering
-- 🚀 Building scalable web applications and REST APIs
-- 🔥 Passionate about clean architecture and modern web technologies
-- 📍 Based in Bangladesh
+- Full Stack JavaScript Developer
+- Experience building responsive web applications and RESTful APIs
+- Skilled in modern frontend and backend technologies
+- Passionate about scalable architecture and clean code practices
+- Focused on delivering performant and user-friendly digital experiences
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 ### Frontend
 
@@ -46,12 +46,6 @@ Building scalable web applications with modern frontend technologies and robust 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
-### UI & Animation
-
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge)
-![Flowbite](https://img.shields.io/badge/Flowbite-3B82F6?style=for-the-badge)
 
 ### Backend
 
@@ -86,26 +80,18 @@ Building scalable web applications with modern frontend technologies and robust 
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nazmul910&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=nazmul910&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=nazmul910&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul910&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul910&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nazmul910&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul910&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -113,16 +99,8 @@ Building scalable web applications with modern frontend technologies and robust 
 ## 🎯 Current Focus
 
 - Full Stack SaaS Applications
-- NestJS & Express.js Backend Development
+- Scalable REST APIs
 - PostgreSQL & Prisma ORM
 - Authentication & Authorization Systems
 - Multi-Tenant Architecture
 - System Design
-
----
-
-## 📈 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nazmul910&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
