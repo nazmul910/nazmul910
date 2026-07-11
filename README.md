@@ -4,9 +4,7 @@
 Full Stack Developer
 </h3>
 
-<p align="center">
-Building modern, scalable, and high-performance web applications using React, Next.js, Vue.js, Node.js, NestJS, PostgreSQL, and MongoDB.
-</p>
+
 
 <p align="center">
 <a href="mailto:nazmulhasan677441@gmail.com">
