@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nazmul Hasan</h1>
 
 
+<h3 align="center">
+Full Stack Developer
+</h3>
+
 <p align="center">
 Building modern, scalable, and high-performance web applications using React, Next.js, Vue.js, Node.js, NestJS, PostgreSQL, and MongoDB.
 </p>
