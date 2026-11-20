@@ -26,7 +26,7 @@ Building modern, scalable, and high-performance web applications using React, Ne
 
 ## 👨‍💻 About Me
 
-- Full Stack JavaScript Developer
+- Junior Software Engineer
 - Experience building responsive web applications and RESTful APIs
 - Skilled in modern frontend and backend technologies
 - Experienced with VPS deployment and Linux server management
